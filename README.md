@@ -1,3 +1,3 @@
-# foody
+# Foody
 
 A new Flutter project.
